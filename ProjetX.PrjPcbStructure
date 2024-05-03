@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=SheetProjectX.SchDoc
+Record=SheetSymbol|SourceDocument=SheetProjectX.SchDoc|Designator=ATMEGA IC|SchDesignator=ATMEGA IC|FileName=AtMEGA IC.SchDoc|SymbolType=Normal|RawFileName=AtMEGA IC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SheetProjectX.SchDoc|Designator=IRF7455 IC|SchDesignator=IRF7455 IC|FileName=IRF7455 IC.SchDoc|SymbolType=Normal|RawFileName=IRF7455 IC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SheetProjectX.SchDoc|Designator=LM3350 IC|SchDesignator=LM3350 IC|FileName=LM3350 IC.SchDoc|SymbolType=Normal|RawFileName=LM3350 IC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
